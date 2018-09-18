@@ -1,3 +1,5 @@
+# Note: this is a personal exercise corresponding to geometry processing course from CSC2520H at University of Toronto. Do not copy if you are a current student.
+
 # Geometry Processing – Introduction
 
 > **To get started:** Fork this repository then issue
